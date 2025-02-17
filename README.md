@@ -1,5 +1,5 @@
 # FLASK-SOCIAL-MEDIA-NETWORK
-Just a basic social media app using flask
+Just a basic social media app
 
 1.Install flask using pip install flask
 
